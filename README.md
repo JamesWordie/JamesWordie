@@ -1,7 +1,27 @@
-### Hi there 👋
+## Hi there 👋, I'm James.
 
+### About Me
+💡  I like to explore new technologies and develop software solutions and quick hacks
+💻 I've just finished the 9 week intensive Web Development coding bootcamp @ Le Wagon London
+👨‍🍳 I also work as a private chef, 🚜 on my families farm & 👷‍♂️ have a degree in Mechanical Engineering
+📧 Feel free to reach out and drop me a message
+
+### Tech Skills
+- Ruby
+- Rails
+- Javascript
+- HTML
+- CSS/SCSS
+- React JS (currenyly learning)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesWordie&show_icons=true&theme=dark)
+
+### Contact Me
+[Linkedin](https://www.linkedin.com/in/james-wordie/)
+[Instagram](https://www.instagram.com/jameswordie/)
+
+### Projects
+[Flashcard](http://www.flashcard.tech/)
 
 
 <!--
