@@ -18,6 +18,7 @@
 
 ### Contact Me
 [Linkedin](https://www.linkedin.com/in/james-wordie/)
+br
 [Instagram](https://www.instagram.com/jameswordie/)
 
 ### Projects
