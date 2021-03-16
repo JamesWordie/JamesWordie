@@ -12,8 +12,8 @@
 - Javascript
 - HTML
 - CSS/SCSS
-- React JS (currenyly learning)
-- 
+- React JS (currently learning)
+
 ### Contact Me
 [Linkedin](https://www.linkedin.com/in/james-wordie/)
 <br>
