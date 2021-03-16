@@ -13,9 +13,7 @@
 - HTML
 - CSS/SCSS
 - React JS (currenyly learning)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesWordie&show_icons=true&theme=dark)
-
+- 
 ### Contact Me
 [Linkedin](https://www.linkedin.com/in/james-wordie/)
 <br>
@@ -24,6 +22,8 @@
 ### Projects
 [Flashcard](http://www.flashcard.tech/)
 
+###Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesWordie&show_icons=true&theme=dark)
 
 <!--
 **JamesWordie/JamesWordie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
