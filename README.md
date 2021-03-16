@@ -1,9 +1,9 @@
 ## Hi there 👋, I'm James.
 
 ### About Me
-💡  I like to explore new technologies and develop software solutions and quick hacks
-💻 I've just finished the 9 week intensive Web Development coding bootcamp @ Le Wagon London
-👨‍🍳 I also work as a private chef, 🚜 on my families farm & 👷‍♂️ have a degree in Mechanical Engineering
+💡  I like to explore new technologies and develop software solutions and quick hacks <br>
+💻 I've just finished the 9 week intensive Web Development coding bootcamp @ Le Wagon London <br>
+👨‍🍳 I also work as a private chef, 🚜 on my families farm & 👷‍♂️ have a degree in Mechanical Engineering <br>
 📧 Feel free to reach out and drop me a message
 
 ### Tech Skills
