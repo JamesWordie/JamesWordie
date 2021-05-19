@@ -20,7 +20,7 @@
 [Instagram](https://www.instagram.com/jameswordie/)
 
 ### Projects
-[Minesweeper] (https://minesweeper-jtw.herokuapp.com/)
+[Minesweeper](https://minesweeper-jtw.herokuapp.com/)
 <br>
 [Flashcard](http://www.flashcard.tech/)
 
