@@ -14,11 +14,6 @@
 - CSS/SCSS
 - React JS (currently learning)
 
-### Contact Me
-[Linkedin](https://www.linkedin.com/in/james-wordie/)
-<br>
-[Instagram](https://www.instagram.com/jameswordie/)
-
 ### Projects
 [Minesweeper](https://minesweeper-jtw.herokuapp.com/)
 <br>
@@ -26,6 +21,12 @@
 
 ### Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesWordie&show_icons=true&theme=dark)
+
+### Contact Me
+[Linkedin](https://www.linkedin.com/in/james-wordie/)
+<br>
+[Instagram](https://www.instagram.com/jameswordie/)
+
 
 <!--
 **JamesWordie/JamesWordie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
