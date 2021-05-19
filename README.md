@@ -21,6 +21,7 @@
 
 ### Projects
 [Minesweeper] (https://minesweeper-jtw.herokuapp.com/)
+<br>
 [Flashcard](http://www.flashcard.tech/)
 
 ### Stats
