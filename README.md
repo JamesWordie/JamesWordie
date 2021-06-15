@@ -13,6 +13,7 @@
 - HTML
 - CSS/SCSS
 - React JS (currently learning)
+- Minitest/RSPEC for TDD in Rails (currently learning)
 
 ### Projects
 [Minesweeper](https://minesweeper-jtw.herokuapp.com/)
