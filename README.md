@@ -16,14 +16,14 @@
 - Minitest/RSPEC for TDD in Rails (currently learning)
 
 ### Projects
-[Minesweeper](https://minesweeper-jtw.herokuapp.com/)
-<br>
-[Flashcard](http://www.flashcard.tech/)
+Check out [my website](https://www.jameswordie.com) or my pinned repos for current projects.
 
 ### Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesWordie&show_icons=true&theme=dark)
 
 ### Contact Me
+[My Website](https://www.jameswordie.com)
+<br>
 [Linkedin](https://www.linkedin.com/in/james-wordie/)
 <br>
 [Instagram](https://www.instagram.com/jameswordie/)
