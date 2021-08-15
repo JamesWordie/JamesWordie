@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm James</h1>
 <h3 align="center">A passionate full-stack developer from Edinburgh, and Le Wagon Web Dev Bootcamp Graduate.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jameswordie" alt="jameswordie" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jameswordie" alt="jameswordie" /></a> </p> -->
 
 - 🔭 I’m currently working on [puzzle-solver](https://github.com/JamesWordie/puzzle-solver)
 
