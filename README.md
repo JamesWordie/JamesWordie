@@ -30,8 +30,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jameswordie&show_icons=true&locale=en" alt="jameswordie" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jameswordie&" alt="jameswordie" /></p>
-
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jameswordie&" alt="jameswordie" /></p>
+ -->
 
 
 <!-- ## Hi there 👋, I'm James.
