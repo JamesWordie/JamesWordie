@@ -3,7 +3,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jameswordie" alt="jameswordie" /></a> </p> -->
 
-- 🔭 I’m currently working on [puzzle-solver](https://github.com/JamesWordie/puzzle-solver)
+- 🔭 I’m currently working on [moviedb-search](https://github.com/JamesWordie/moviedb-search)
 
 - 🌱 I’m currently learning **React, Cypress and Jest**
 
