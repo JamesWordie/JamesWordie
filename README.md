@@ -7,8 +7,8 @@
 
 - 🌱 I’m currently learning **React, Cypress and Jest**
 
-- 🤝 I’m looking for help with [spotify-mood-playlist](https://github.com/JamesWordie/spotify-mood-playlist)
-
+<!-- - 🤝 I’m looking for help with [spotify-mood-playlist](https://github.com/JamesWordie/spotify-mood-playlist)
+ -->
 - 👨‍💻 All of my projects are available at [https://www.jameswordie.com](https://www.jameswordie.com)
 
 - ⚡ Fun fact **I used to work as a chef in a Michelin starred restaurant a number of years ago.**
