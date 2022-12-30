@@ -1,26 +1,20 @@
-<h1 align="center">Hi 👋, I'm James</h1>
+<h1 align="center">Hi, I'm James</h1>
 <h3 align="center">A passionate full-stack developer from Edinburgh, and Le Wagon Web Dev Bootcamp Graduate.</h3>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jameswordie" alt="jameswordie" /></a> </p> -->
 
-- 🔭 I’m currently working on [Game of Life](https://github.com/JamesWordie/game-of-life)
+- 🔭 I’m currently working on [Project Euler Problems](https://projecteuler.net)
 
-- 🌱 I’m currently learning **React, Cypress and Jest**
-
-<!-- - 🤝 I’m looking for help with [spotify-mood-playlist](https://github.com/JamesWordie/spotify-mood-playlist)
- -->
-- 👨‍💻 All of my projects are available at [https://www.jameswordie.com](https://www.jameswordie.com)
-
-- ⚡ Fun fact **I used to work as a chef in a Michelin starred restaurant a number of years ago.**
+- 🌱 I’m currently learning **Python, NLP (natural language processing) and ML (machine learning)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jameswordie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jameswordie" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/james-wordie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="james-wordie" height="30" width="40" /></a>
-<a href="https://instagram.com/jameswordie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jameswordie" height="30" width="40" /></a>
-<a href="https://medium.com/@jameswordie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jameswordie" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/jameswordie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jameswordie" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jameswordie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jameswordie" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/jameswordie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jameswordie" height="30" width="40" /></a> -->
+<!-- <a href="https://medium.com/@jameswordie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jameswordie" height="30" width="40" /></a> -->
+<!-- <a href="https://www.hackerrank.com/jameswordie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jameswordie" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/jameswordie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jameswordie" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
